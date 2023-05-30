@@ -10,12 +10,12 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 ## With me by your side, you can rest assured that your software will shine in an intensely competitive market. Your stakeholders and users will be eternally grateful to you for it!
 
-<h2 aligh="right">TOTAL EXPERIENCE:</h2>
+<h2 aligh="left">TOTAL EXPERIENCE:</h2>
 
 ![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Automation testing](https://img.shields.io/badge/-Automation%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Security testing](https://img.shields.io/badge/-Security%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Web testing](https://img.shields.io/badge/-Web%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Mobile testing](https://img.shields.io/badge/-Mobile%20testing-004971?style=for-the-badge&logo=white_check_mark) 
 
-<h3 align="right">Project Management Methodologies:</h2>
-![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge) ![V-Model](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge) 
+<h3 align="left">Project Management Methodologies:</h2>
+![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=scrum) ![V-Model](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=white_check_mark) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge&logo=white_check_mark) 
 
 
 Work Experience
