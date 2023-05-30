@@ -71,6 +71,6 @@ I am deeply convinced that our role in shaping the culture of respect for produc
 
 <h2 align="left">You are welcome to contact me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaexpert1/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/end051ne) [![Gmail]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://mail.google.com/mail/?view=cm&fs=1&to=roskishnyit@gmail.com&su=SUBJECT&body=BODY)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaexpert1/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/end051ne) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=roskishnyit@gmail.com&su=SUBJECT&body=BODY)
 
 <h2 align="center">Thank you! Looking forward to talking to you soon 🤝</h2>
