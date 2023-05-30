@@ -10,13 +10,17 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 ## With me by your side, you can rest assured that your software will shine in an intensely competitive market. Your stakeholders and users will be eternally grateful to you for it!
 
-<h2 aligh="left">TOTAL EXPERIENCE:</h2>
+<h2 aligh="left">MY TOTAL EXPERIENCE INCLUDES:</h2>
 
 ![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Automation testing](https://img.shields.io/badge/-Automation%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Security testing](https://img.shields.io/badge/-Security%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Web testing](https://img.shields.io/badge/-Web%20testing-004971?style=for-the-badge&logo=white_check_mark) ![Mobile testing](https://img.shields.io/badge/-Mobile%20testing-004971?style=for-the-badge&logo=white_check_mark) 
 
 <h3 align="left">Project Management Methodologies:</h2>
 
 ![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=white_check_mark) ![V-Model](https://img.shields.io/badge/-V%20Model-77BCC5?style=for-the-badge&logo=white_check_mark) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge&logo=white_check_mark) ![Iterative & Incremental development](https://img.shields.io/badge/-Iterative%20%26%20Incremental%20development-77BCC5?style=for-the-badge&logo=white_check_mark) ![Kanban](https://img.shields.io/badge/-Kanban-77BCC5?style=for-the-badge&logo=white_check_mark) ![Scrum](https://img.shields.io/badge/-Scrum-77BCC5?style=for-the-badge&logo=white_check_mark) ![BDD](https://img.shields.io/badge/-BDD-77BCC5?style=for-the-badge&logo=white_check_mark) ![TDD](https://img.shields.io/badge/-TDD-77BCC5?style=for-the-badge&logo=white_check_mark)
+
+<h3 align="left">Network & Security Tools:</h2>
+
+![Nessus](https://img.shields.io/badge/-Nessus-EC5366?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![OWASP zap](https://img.shields.io/badge/-OWASP%20zap-EC5366?style=for-the-badge&logo=white_check_mark) ![Nmap](https://img.shields.io/badge/-Nmap-EC5366?style=for-the-badge&logo=white_check_mark) ![Drozer](https://img.shields.io/badge/-Drozer-EC5366?style=for-the-badge&logo=white_check_mark) ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-EC5366?style=for-the-badge&logo=white_check_mark) ![Nikto](https://img.shields.io/badge/-Nikto-EC5366?style=for-the-badge&logo=white_check_mark) ![Apktool](https://img.shields.io/badge/-Wireshark-EC5366?style=for-the-badge&logo=white_check_mark) 
 
 
 Work Experience
