@@ -48,7 +48,6 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 <h3 align="left">Other Tools:</h2>
 
-<<<<<<< HEAD
 ![Chrome Dev Tools](https://img.shields.io/badge/chrome%20dev%20tools-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white) ![Opera](https://img.shields.io/badge/Opera%20dev%20tools-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Safari](https://img.shields.io/badge/Safari%20dev%20tools-000000?style=for-the-badge&logo=Safari&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox%20dev%20tools-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
@@ -56,10 +55,15 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 This book covers a range of topics, from static and dynamic testing to unit and user-acceptance testing, and everything in between. It provides insights into risk analysis, defect control, and delivery management, helping you to identify and mitigate risks early in the development process. You are going to learn a bunch of new tips how to endorse your efficiency and cooperation with the team.
 
-=======
-![Chrome Dev Tools](https://img.shields.io/badge/chrome%20dev%20tools-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white) ![Opera](https://img.shields.io/badge/Opera%20dev%20tools-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Safari](https://img.shields.io/badge/Safari%20dev%20tools-000000?style=for-the-badge&logo=Safari&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox%20dev%20tools-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ! [Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
->>>>>>> 2563037c2f01e557733181dc02432b135affed7f
+PS published under the pen name Tancred Ross
 
+[![Header](https://github.com/tarantot/tarantot/blob/main/assets/Program%20Your%20Testingl.jpg?raw=true)](https://www.amazon.com/Program-Your-Testing-Completion-Development/dp/B0C5G9L5BS/ref=sr_1_1?crid=NQ9RTV51ZJA8&keywords=B0C5G9L5BS+%2B+testing+book&qid=1685413039&s=books&sprefix=b0c5g9l5bs+%2B+testing+book%2Cstripbooks-intl-ship%2C159&sr=1-1)
+
+I am deeply convinced that our role in shaping the culture of respect for product quality within our organizations is pivotal. This culture starts with the quality assurance department, and the job of an every quality expert is to become the ambassador of this movement.
+
+<h2 align="center">You are welcome to contact me!</h2>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaexpert1/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/end051ne)
 
 Work Experience
 
