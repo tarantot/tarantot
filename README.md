@@ -34,6 +34,14 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python%20%28Cucumber%2C%20PyTest%2C%20PyUnit%2C%20Behave%2C%20Lettuce%29-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20%28Vue%2C%20Angular%2C%20Postman%2C%20Puppeteer%2C%20Percy%2C%20Artillery%2C%20Node%2C%20Selenium%29-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript%20%28Nestjs%2C%20FeatherJS%29-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php%20%28Drupal%2C%20Laravel%29-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<h3 align="left">IDE:</h2>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)	![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+
+<h3 align="left">Mobile Testing Tools:</h2>
+
+![Charles](https://img.shields.io/badge/-Charles-737373?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![Fiddler](https://img.shields.io/badge/-Fiddler-737373?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![TestFlight](https://img.shields.io/badge/-TestFlight-737373?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Genymotion](https://img.shields.io/badge/-Genymotion-EC5366?style=for-the-badge&logo=white_check_mark) 
+
 Work Experience
 
 Education
