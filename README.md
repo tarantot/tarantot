@@ -55,7 +55,7 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 [![ISTQB Foundations Level](https://github.com/tarantot/tarantot/blob/main/assets/ISTQB-FL_compressed_page-0001.jpg)](https://atsqa.org/certified-testers/profile/61ef361f8b9a462096464a8ac981968f)
 
-[![ISTQB Advanced Level Test Analyst](https://github.com/tarantot/tarantot/blob/main/assets/ISTQB-FL_compressed_page-0001.jpg)](https://atsqa.org/certified-testers/profile/61ef361f8b9a462096464a8ac981968f){:target="_blank" rel="noopener"}
+[![ISTQB Advanced Level Test Analyst](https://github.com/tarantot/tarantot/blob/main/assets/Certificate-22-CTAL-TA-00089-USA_page-0001.jpg)](https://atsqa.org/certified-testers/profile/61ef361f8b9a462096464a8ac981968f)
 
 ![DevMountain Cybersecurity Program](https://github.com/tarantot/tarantot/blob/main/assets/TARAS%20ROSKISHNYI_page-0001.jpg)
 
