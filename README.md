@@ -12,8 +12,9 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 Your stakeholders and users will be eternally grateful to you for it.
 ======
+![Manual testing](https://img.shields.io/badge/Manual testing-004971?style=for-the-badge&logo=✅)
+# TOTAL EXPERIENCE
 
-Skills, Languages, and Tools
 
 Work Experience
 
