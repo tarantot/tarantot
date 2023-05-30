@@ -52,7 +52,11 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 
 <h1 align="center">Certifications:</h1>
+[![ISTQB Foundations Level](https://github.com/tarantot/tarantot/blob/main/assets/ISTQB-FL_compressed_page-0001.jpg)](https://atsqa.org/certified-testers/profile/61ef361f8b9a462096464a8ac981968f)
 
+[![ISTQB Advanced Level Test Analyst](https://github.com/tarantot/tarantot/blob/main/assets/ISTQB-FL_compressed_page-0001.jpg)](https://atsqa.org/certified-testers/profile/61ef361f8b9a462096464a8ac981968f)
+
+![DevMountain Cybersecurity Program](https://github.com/tarantot/tarantot/blob/main/assets/TARAS%20ROSKISHNYI_page-0001.jpg)
 
 <h1 align="center">Check out my book "Program Your Testing: From Concept to Completion, for a Seamless and Successful Development Lifecycle"! The ultimate research written by 100% practitioner.</h1>
 
