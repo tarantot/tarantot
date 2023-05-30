@@ -16,7 +16,7 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 <h3 align="left">Project Management Methodologies:</h2>
 
-![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=white_check_mark) ![V-Model](https://img.shields.io/badge/-V-Model-77BCC5?style=for-the-badge&logo=white_check_mark) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge&logo=white_check_mark) 
+![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=white_check_mark) ![V-Model](https://img.shields.io/badge/-V%20Model-77BCC5?style=for-the-badge&logo=white_check_mark) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge&logo=white_check_mark) ![Iterative & Incremental development](https://img.shields.io/badge/-Iterative%20%26%20Incremental%20development-77BCC5?style=for-the-badge&logo=white_check_mark) ![Kanban](https://img.shields.io/badge/-Kanban-77BCC5?style=for-the-badge&logo=white_check_mark) ![Scrum](https://img.shields.io/badge/-Scrum-77BCC5?style=for-the-badge&logo=white_check_mark) ![BDD](https://img.shields.io/badge/-BDD-77BCC5?style=for-the-badge&logo=white_check_mark) ![TDD](https://img.shields.io/badge/-TDD-77BCC5?style=for-the-badge&logo=white_check_mark)
 
 
 Work Experience
