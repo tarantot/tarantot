@@ -12,7 +12,7 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 Your stakeholders and users will be eternally grateful to you for it.
 ======
-![Manual testing](https://img.shields.io/badge/-Manualtesting-004971?style=for-the-badge&logo=✅)
+![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=✅)
 # TOTAL EXPERIENCE
 
 
