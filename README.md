@@ -12,7 +12,7 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 <h2 aligh="right">TOTAL EXPERIENCE</h2>
 
-![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=appveyor) 
+![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=:white_check_mark:) 
 
 
 Work Experience
