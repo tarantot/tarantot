@@ -40,7 +40,7 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 <h3 align="left">Mobile Testing Tools:</h2>
 
-![Charles](https://img.shields.io/badge/-Charles-737373?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![Fiddler](https://img.shields.io/badge/-Fiddler-737373?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![TestFlight](https://img.shields.io/badge/-TestFlight-737373?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Genymotion](https://img.shields.io/badge/-Genymotion-EC5366?style=for-the-badge&logo=white_check_mark) 
+![Charles](https://img.shields.io/badge/-Charles-737373?style=for-the-badge&logo=white_check_mark) ![Fiddler](https://img.shields.io/badge/-Fiddler-737373?style=for-the-badge&logo=white_check_mark) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![TestFlight](https://img.shields.io/badge/-TestFlight-737373?style=for-the-badge&logo=white_check_mark) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Genymotion](https://img.shields.io/badge/-Genymotion-EC5366?style=for-the-badge&logo=white_check_mark) 
 
 Work Experience
 
