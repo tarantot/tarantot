@@ -42,6 +42,10 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 ![Charles](https://img.shields.io/badge/-Charles-737373?style=for-the-badge&logo=white_check_mark) ![Fiddler](https://img.shields.io/badge/-Fiddler-737373?style=for-the-badge&logo=white_check_mark) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![TestFlight](https://img.shields.io/badge/-TestFlight-737373?style=for-the-badge&logo=white_check_mark) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Genymotion](https://img.shields.io/badge/-Genymotion-EC5366?style=for-the-badge&logo=white_check_mark) 
 
+<h3 align="left">Mobile Testing Tools:</h2>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Santoku](https://img.shields.io/badge/-Santoku-737373?style=for-the-badge&logo=white_check_mark) 
+
+
 Work Experience
 
 Education
