@@ -22,6 +22,9 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 ![Nessus](https://img.shields.io/badge/-Nessus-EC5366?style=for-the-badge&logo=white_check_mark) ![SQL Map](https://img.shields.io/badge/-SQL%20Map-EC5366?style=for-the-badge&logo=white_check_mark) ![OWASP zap](https://img.shields.io/badge/-OWASP%20zap-EC5366?style=for-the-badge&logo=white_check_mark) ![Nmap](https://img.shields.io/badge/-Nmap-EC5366?style=for-the-badge&logo=white_check_mark) ![Drozer](https://img.shields.io/badge/-Drozer-EC5366?style=for-the-badge&logo=white_check_mark) ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-EC5366?style=for-the-badge&logo=white_check_mark) ![Nikto](https://img.shields.io/badge/-Nikto-EC5366?style=for-the-badge&logo=white_check_mark) ![Apktool](https://img.shields.io/badge/-Wireshark-EC5366?style=for-the-badge&logo=white_check_mark) 
 
+<h3 align="left">API Tools:</h2>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Python requests](https://img.shields.io/badge/python%20requests-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Work Experience
 
