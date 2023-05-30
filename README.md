@@ -11,7 +11,8 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 ## With me by your side, you can rest assured that your software will shine in an intensely competitive market. Your stakeholders and users will be eternally grateful to you for it!
 
 <h2 aligh="right">TOTAL EXPERIENCE</h2>
-![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=checkmark) 
+![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge) 
+
 
 Work Experience
 
