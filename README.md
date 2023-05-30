@@ -26,6 +26,10 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Python requests](https://img.shields.io/badge/python%20requests-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python Faster Than Requests](https://img.shields.io/badge/python%20faster%20than%20requests-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python PyCURL](https://img.shields.io/badge/python%20PyCURL-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python flask](https://img.shields.io/badge/python%20flask-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<h3 align="left">RDBMS:</h2>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PHP My Admin](https://img.shields.io/badge/php%20My%20admin-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 Work Experience
 
 Education
