@@ -8,12 +8,9 @@ With over 5 years of unwavering dedication to my craft, I have become a force to
 
 I have successfully participated, contibuted, and led numerous projects, detecting and eliminating even the most elusive defects and vulnerabilities. Through meticulous testing and analysis, I have saved my clients countless hours and resources, delivering flawless software that delights users and boosts their confidence in your brand. I am a relentless detective in uncovering hidden defects and optimizing performance.  My knack for deciphering complex data allows me to uncover patterns, trends, and root causes that lead to optimal solutions. I collaborate closely with developers, designers, and stakeholders, fostering a seamless integration of quality assurance practices throughout the software development lifecycle.
 
-## With me by your side, you can rest assured that your software will shine in an intensely competitive market. 
+## With me by your side, you can rest assured that your software will shine in an intensely competitive market. Your stakeholders and users will be eternally grateful to you for it!
 
-Your stakeholders and users will be eternally grateful to you for it.
-======
-
-# TOTAL EXPERIENCE
+<h2 aligh="right">TOTAL EXPERIENCE</h2>
 ![Manual testing](https://img.shields.io/badge/-Manual%20testing-004971?style=for-the-badge&logo=checkmark) 
 
 Work Experience
