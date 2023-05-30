@@ -24,7 +24,7 @@ I have successfully participated, contibuted, and led numerous projects, detecti
 
 <h3 align="left">API Tools:</h2>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Python requests](https://img.shields.io/badge/python%20requests-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Python requests](https://img.shields.io/badge/python%20requests-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python Faster Than Requests](https://img.shields.io/badge/python%20faster%20than%20requests-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python PyCURL](https://img.shields.io/badge/python%20PyCURL-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python flask](https://img.shields.io/badge/python%20flask-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Work Experience
 
