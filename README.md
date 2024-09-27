@@ -78,9 +78,11 @@ I have successfully participated in, contributed to, and led numerous projects, 
 
 This book covers a range of topics, from static and dynamic testing to unit and user-acceptance testing, and everything in between. It provides insights into risk analysis, defect control, and delivery management, helping you to identify and mitigate risks early in the development process. You are going to learn a bunch of new tips how to endorse your efficiency and cooperation with the team.
 
-PS published under the pen name Tancred Ross
-
 [![Header](https://github.com/tarantot/tarantot/blob/main/assets/book.jpg?raw=true)](https://www.amazon.com/Program-Your-Testing-Completion-Development/dp/B0C5G9L5BS/ref=sr_1_1?crid=NQ9RTV51ZJA8&keywords=B0C5G9L5BS+%2B+testing+book&qid=1685413039&s=books&sprefix=b0c5g9l5bs+%2B+testing+book%2Cstripbooks-intl-ship%2C159&sr=1-1)
+
+P.S. published under the pen name Táncred Ross
+
+[![Header](https://github.com/tarantot/tarantot/blob/main/assets/Program_your_testing.jpg?raw=true)](https://www.amazon.com/Program-Your-Testing-Completion-Development/dp/B0C5G9L5BS/ref=sr_1_1?crid=NQ9RTV51ZJA8&keywords=B0C5G9L5BS+%2B+testing+book&qid=1685413039&s=books&sprefix=b0c5g9l5bs+%2B+testing+book%2Cstripbooks-intl-ship%2C159&sr=1-1)
 
 I am deeply convinced that our role in shaping the culture of respect for product quality within our organizations is pivotal. This culture starts with the quality assurance department, and the job of an every quality expert is to become the ambassador of this movement.
 
