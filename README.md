@@ -2,7 +2,8 @@
 
 [![Header](https://github.com/tarantot/tarantot/blob/main/assets/banner.jpg)](https://www.amazon.com/dp/B0C5GMCT88/ref=sr_1_fkmr0_1?crid=1730XNTGX40QZ&keywords=B0C5GMCT88+%2B+programming+book&qid=1684344566&s=digital-text&sprefix=b0c5gmct88+%2B+programming+book%2Cdigital-text%2C141&sr=1-1-fkmr0)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=000000&center=true&multiline=true&width=1300&height=150&lines=I+am+the+expert+who+can+elevate+your+product+to+unprecedented+heights.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=500&color=000000&center=true&multiline=true&width=1300&height=150&lines=I+am+the+expert+who+can+elevate+your+product+to+unprecedented+heights.&repeat=3)](https://git.io/typing-svg)
+
 
 With over 6 years of unwavering dedication to my craft, I have become a force to be reckoned with in the software industry. I possess an unparalleled mastery of development methodologies, the most efficient testing approaches, advanced tools, methodologies, and cutting-edge technologies that ensure your software not only meets but exceeds the highest quality standards. When it comes to tackling complex challenges, I thrive. I possess a unique blend of strategic thinking, creativity, and meticulous attention to detail, allowing me to devise innovative solutions that yield exceptional outcomes.
 
@@ -16,7 +17,7 @@ I have successfully participated in, contributed to, and led numerous projects, 
 
 <h3 align="left">Project Management Methodologies:</h2>
 
-![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=white_check_mark) ![V-Model](https://img.shields.io/badge/-V%20Model-77BCC5?style=for-the-badge&logo=white_check_mark) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge&logo=white_check_mark) ![Iterative & Incremental development](https://img.shields.io/badge/-Iterative%20%26%20Incremental%20development-77BCC5?style=for-the-badge&logo=white_check_mark) ![Kanban](https://img.shields.io/badge/-Kanban-77BCC5?style=for-the-badge&logo=white_check_mark) ![Scrum](https://img.shields.io/badge/-Scrum-77BCC5?style=for-the-badge&logo=white_check_mark) ![BDD](https://img.shields.io/badge/-BDD-77BCC5?style=for-the-badge&logo=white_check_mark) ![TDD](https://img.shields.io/badge/-TDD-77BCC5?style=for-the-badge&logo=white_check_mark)
+![Agile](https://img.shields.io/badge/-Agile-77BCC5?style=for-the-badge&logo=white_check_mark) ![Waterfall](https://img.shields.io/badge/-Waterfall-77BCC5?style=for-the-badge&logo=white_check_mark) ![Lean](https://img.shields.io/badge/-Lean-77BCC5?style=for-the-badge&logo=white_check_mark) ![XP (extrame programming)](https://img.shields.io/badge/-XP%20%28extrama%20programming%29-77BCC5?style=for-the-badge&logo=white_check_mark) ![Scaled Agile](https://img.shields.io/badge/-Scaled%20Agile-77BCC5?style=for-the-badge&logo=white_check_mark) ![V and W-Models](https://img.shields.io/badge/-V%20and%20W-Models-77BCC5?style=for-the-badge&logo=white_check_mark) ![Spiral](https://img.shields.io/badge/-Spiral-77BCC5?style=for-the-badge&logo=white_check_mark) ![PRINCE2 (Projects IN Controlled Environments)](https://img.shields.io/badge/-PRINCE2%20%28PRojects%20IN%20Controlled%20Environments%29-77BCC5?style=for-the-badge&logo=white_check_mark) ![Iterative & Incremental development](https://img.shields.io/badge/-Iterative%20%26%20Incremental%20development-77BCC5?style=for-the-badge&logo=white_check_mark) ![Kanban](https://img.shields.io/badge/-Kanban-77BCC5?style=for-the-badge&logo=white_check_mark) ![Scrum](https://img.shields.io/badge/-Scrum-77BCC5?style=for-the-badge&logo=white_check_mark) ![BDD](https://img.shields.io/badge/-BDD-77BCC5?style=for-the-badge&logo=white_check_mark) ![TDD](https://img.shields.io/badge/-TDD-77BCC5?style=for-the-badge&logo=white_check_mark) ![Hybrid](https://img.shields.io/badge/-Hybrid-77BCC5?style=for-the-badge&logo=white_check_mark) 
 
 <h3 align="left">Network & Security Tools:</h2>
 
@@ -66,6 +67,7 @@ I have successfully participated in, contributed to, and led numerous projects, 
 
 <details>
   <summary>
+    <h2>CISCO Cybersecurity Analyst & Modules Included</h2>
     <a href="https://www.credly.com/badges/6b77f9a4-3900-463c-a032-c4587983fe7a/public_url">
       <img src="https://github.com/tarantot/tarantot/blob/main/assets/Cybersecurity_Analyst_Career_Path_Badge-27-5cljfd-1.png" alt="CISCO Cybersecurity Analyst">
     </a>
@@ -89,7 +91,12 @@ I have successfully participated in, contributed to, and led numerous projects, 
 </details>
 
 <details>
-<summary>[![CISCO Network Tecnician](https://github.com/tarantot/tarantot/blob/main/assets/Network_Technician_Career_Path_Badge-28-y6cd9z-1.png)](https://www.credly.com/badges/1b764b04-e0aa-4532-b46b-134543a18c88/public_url)</summary>
+  <summary>
+    <h2>CISCO Network Technician & Modules Included</h2>
+    <a href="https://www.credly.com/badges/1b764b04-e0aa-4532-b46b-134543a18c88/public_url">
+      <img src="https://github.com/tarantot/tarantot/blob/main/assets/Network_Technician_Career_Path_Badge-28-y6cd9z-1.png" alt="CISCO Network Technician">
+    </a>
+  </summary>
 
 [![CISCO Network Support and Security](https://github.com/tarantot/tarantot/blob/main/assets/Network_Support_and_Security_Badge-27-lg5x0i-1.png)](https://www.credly.com/badges/601a6e2b-5f8e-4d42-8395-824739738dd9/public_url)
 
