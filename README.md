@@ -65,15 +65,27 @@ I have successfully participated in, contributed to, and led numerous projects, 
 [![ISTQB Advanced Level Test Analyst](https://github.com/tarantot/tarantot/blob/main/assets/Certificate-22-CTAL-TA-00089-USA_page-0001.jpg)](https://atsqa.org/certified-testers/profile/61ef361f8b9a462096464a8ac981968f)
 
 <details>
-<summary>[![CISCO Cybersecurity Analyst](https://github.com/tarantot/tarantot/blob/main/assets/Cybersecurity_Analyst_Career_Path_Badge-27-5cljfd-1.png)](https://www.credly.com/badges/6b77f9a4-3900-463c-a032-c4587983fe7a/public_url)</summary>
+  <summary>
+    <a href="https://www.credly.com/badges/6b77f9a4-3900-463c-a032-c4587983fe7a/public_url">
+      <img src="https://github.com/tarantot/tarantot/blob/main/assets/Cybersecurity_Analyst_Career_Path_Badge-27-5cljfd-1.png" alt="CISCO Cybersecurity Analyst">
+    </a>
+  </summary>
 
-[![CISCO Introduction to Cybersecurity](https://github.com/tarantot/tarantot/blob/main/assets/Introduction_to_Cybersecurity_Badge-27-a1q5le-1.png)](https://www.credly.com/badges/959329a3-641c-445e-a812-d9a9986868e4/public_url)
-
-[![CISCO Networking Basics](https://github.com/tarantot/tarantot/blob/main/assets/Networking_Basics_Badge-28-lwdc08-1.png)](https://www.credly.com/badges/d4ea96de-59f7-47f0-b50a-c2e1769954e8/public_url)
-
-[![CISCO Endpoint Security](https://github.com/tarantot/tarantot/blob/main/assets/Endpoint_Security_Badge-28-wwg8xp-1.png)](https://www.credly.com/badges/c1bb2be4-00a0-4c0c-aca7-7ac6b444f7e5/public_url)
-
-[![CISCO Cyber Threat Management](https://github.com/tarantot/tarantot/blob/main/assets/Cyber_Threat_Management_Badge-27-4b8jht-1.png)](https://www.credly.com/badges/6fc6efda-e191-4aec-bc78-d09de02efb07/public_url)
+  <a href="https://www.credly.com/badges/959329a3-641c-445e-a812-d9a9986868e4/public_url">
+    <img src="https://github.com/tarantot/tarantot/blob/main/assets/Introduction_to_Cybersecurity_Badge-27-a1q5le-1.png" alt="CISCO Introduction to Cybersecurity">
+  </a>
+  
+  <a href="https://www.credly.com/badges/d4ea96de-59f7-47f0-b50a-c2e1769954e8/public_url">
+    <img src="https://github.com/tarantot/tarantot/blob/main/assets/Networking_Basics_Badge-28-lwdc08-1.png" alt="CISCO Networking Basics">
+  </a>
+  
+  <a href="https://www.credly.com/badges/c1bb2be4-00a0-4c0c-aca7-7ac6b444f7e5/public_url">
+    <img src="https://github.com/tarantot/tarantot/blob/main/assets/Endpoint_Security_Badge-28-wwg8xp-1.png" alt="CISCO Endpoint Security">
+  </a>
+  
+  <a href="https://www.credly.com/badges/6fc6efda-e191-4aec-bc78-d09de02efb07/public_url">
+    <img src="https://github.com/tarantot/tarantot/blob/main/assets/Cyber_Threat_Management_Badge-27-4b8jht-1.png" alt="CISCO Cyber Threat Management">
+  </a>
 </details>
 
 <details>
